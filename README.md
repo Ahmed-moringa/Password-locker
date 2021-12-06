@@ -12,11 +12,11 @@ This project is a python application that manages login and signup credentials o
 
 ## User Stories
 The user would like to.... :
-* 1. To create a password locker account with my details, a login username and password.
-* 2. To store my already existing account credentials in the application.
-* 3. To create new account credentials in the application.   
-* 4. To have the option of putting in a password that I want to use for the new credential account. 
-* 5. To delete a credentials account that I no longer need in the application.
+1. To create a password locker account with my details, a login username and password.
+2. To store my already existing account credentials in the application.
+3. To create new account credentials in the application.   
+4. To have the option of putting in a password that I want to use for the new credential account. 
+5. To delete a credentials account that I no longer need in the application.
 
 
 ## Installation / Setup instruction
