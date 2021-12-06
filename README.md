@@ -9,6 +9,7 @@ This project is a python application that manages login and signup credentials o
 
 ## Screenshot
 
+[![Screenshot-2021-12-07-at-02-13-27.png](https://i.postimg.cc/s2bM1wFx/Screenshot-2021-12-07-at-02-13-27.png)](https://postimg.cc/gwqzTy2b)
 
 ## User Stories
 The user would like to.... :
